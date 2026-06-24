@@ -49,4 +49,4 @@ I focus on clear deliverables, honest communication, and insights that actually 
 
 -----
 
- **Contact:** [LinkedIn](https://www.linkedin.com/in/jegede-adesola-562398244) ·
+ **Contact:** [LinkedIn](https://www.linkedin.com/in/jegede-adesola-562398244), 08069815243.
