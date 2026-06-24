@@ -18,23 +18,21 @@ I’m a Data Analyst skilled in SQL and Power BI, with a track record of cleanin
 
 ## 📁 Relevant Projects
 
-### 🛍️ Orders Dataset Analysis — Decode Lab Internship
-
-**Tools:** Excel · SQL Server · Power BI  
-Four-week end-to-end project on a 1,200-row orders dataset. Cleaned data in Excel, wrote SQL queries for exploratory analysis, and delivered a Power BI dashboard with a narrative insights page summarising business findings.  
-🔗 [View Repository](#)
-
------
-
-
 ### Logistics Analytics Capstone — TS Academy
 
 **Tools:** Power BI · Excel  
 Analysed 85,000+ logistics records across 14 tables. Built a 4-page Power BI dashboard covering performance, delivery trends, and cost patterns — with a dedicated narrative insights page.  
-🔗 [View Repository](#)
+🔗 [View Repository](https://github.com/AdesolaJegede/Logistics-Operations-Analytics-Dashboard)
 
 -----
 
+### 🛍️ Orders Dataset Analysis — Decode Lab Internship
+
+**Tools:** Excel · SQL Server · Power BI  
+Four-week end-to-end project on a 1,200-row orders dataset. Cleaned data in Excel, wrote SQL queries for exploratory analysis, and delivered a Power BI dashboard with a narrative insights page summarising business findings.  
+🔗 [View Repository](https://github.com/AdesolaJegede/Task-4-AdesolaJegede),(https://github.com/AdesolaJegede/Task-3-AdesolaJegede),(https://github.com/AdesolaJegede/Task-2-AdesolaJegede), (https://github.com/AdesolaJegede/Task-1-AdesolaJegede)
+
+-----
 
 ## Background
 
